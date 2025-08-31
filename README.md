@@ -2,7 +2,7 @@
 - 💻 passionate developer exploring Java and Web technologies
 - 🌱 currently learning **Spring Boot**, **React**, and **Cloud**
 - 🧠 love building things and collaborating on open source
-- 📫 Reach me at **garvsharma200212@gmail.com**
+- 📫 Reach me at **garvsharma1202@gmail.com**
 
 ---
 
