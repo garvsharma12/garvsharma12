@@ -23,5 +23,22 @@
   <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
+<h3 align="left">Languages and Tools:</h3>
 
+| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Frameworks&&lib)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Operating+Systems)](https://git.io/typing-svg) | 
+| ----- | ---- | ---- | ---- | ---- |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cpp,c" title="Java , Cpp , C"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,redux" title="React, Redux"/></a></div>| <div align="center"><a href="https://skillicons.dev"><img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png" height="50" title="IntelliJ"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" title="GitHub"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></a></div> |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css" title="JavaScript, HTML, CSS"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,express" title="Spring-Boot, Node.js"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" title="Docker"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" title="Linux"/></a></div> |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,ts" title="mongodb, MySQL, Scss"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap,tailwind" title="Bootstrap, React"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" title="git"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu"/></a></div> | 
+ 
+ <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prathamlashkari&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prathamlashkari&theme=2077" height="180em" /></p>
+
+<p  align="center">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prathamlashkari&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prathamlashkari&theme=2077" height="180em" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamlashkari&theme=2077" height="180em" /></p>
+
+
+<p align="center">
+     <img width="49.5%" src="https://nirzak-streak-stats.vercel.app?user=prathamlashkari&theme=dark&hide_border=true" />
+  </p>
 ---
